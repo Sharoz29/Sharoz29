@@ -12,7 +12,7 @@ I'm @Sharoz29, a passionate self-taught software developer on a journey to turn 
 💼 I'm a problem solver at heart, always looking for elegant solutions to complex problems.
 
 > Let's Connect
-📫 You can reach me at [maliksharoz70@outlook.com].
-🌐 Connect with me on [[LinkedIn](https://www.linkedin.com/in/malik-sharoz-tariq-542562272/)].
+📫 You can reach me at maliksharoz70@outlook.com.
+🌐 Connect with me on [LinkedIn(https://www.linkedin.com/in/malik-sharoz-tariq-542562272/)].
 👨‍💼 I'm open to collaborations and always eager to learn from others in the software development community.
 Thanks for stopping by, and I look forward to connecting with fellow developers, sharing knowledge, and making great things happen through code! 😄🚀
