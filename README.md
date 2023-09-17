@@ -1,5 +1,5 @@
 # Hi there! 👋
-I'm Sharoz and I'm not just a self-taught software developer; I'm a passionate creator who breathes life into digital worlds! 👨‍💻✨  
+I'm Sharoz and I'm not just a self-taught software developer; I'm a passionate creator who breathes life into digital world! 👨‍💻✨  
 
 ### About Me
 🚀 I'm a relentless explorer of technology, always hungry to tackle new challenges and transform them into stunning solutions.  
