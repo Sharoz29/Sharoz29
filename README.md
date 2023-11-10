@@ -17,5 +17,3 @@ I'm Sharoz and I'm not just a self-taught software developer; I'm a passionate c
 
 Thanks for discovering the magic in my code, and together, let's create digital wonders that leave a mark on the world! 😄✨🚀
 
-### My Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharoz29&layout=donut)](https://github.com/Sharoz29/github-readme-stats)
